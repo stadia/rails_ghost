@@ -1,0 +1,2 @@
+class PostAuthor < ApplicationRecord
+end

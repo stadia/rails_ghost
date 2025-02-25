@@ -1,0 +1,2 @@
+class PostRevision < ApplicationRecord
+end

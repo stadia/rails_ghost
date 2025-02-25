@@ -1,0 +1,2 @@
+class PostMetum < ApplicationRecord
+end
