@@ -373,6 +373,7 @@ DEPENDENCIES
   capybara
   css-zero (~> 1.1)
   debug
+  dotenv
   importmap-rails
   jbuilder
   kamal
